@@ -7,3 +7,4 @@ docs/source/_build
 cache
 .nyc_output
 tsconfig.tsbuildinfo
+.DS_Store

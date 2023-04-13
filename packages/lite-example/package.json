@@ -1,0 +1,16 @@
+{
+    "name": "example",
+    "private": true,
+    "version": "0.1.6",
+    "engines": {
+        "node": ">=10",
+        "yarn": "^1.17.3"
+    },
+    "scripts": {
+        "build": "waffle"
+    },
+    "devDependencies": {
+        "ethereum-mars": "^0.2.5",
+        "ethereum-waffle": "^4.0.10"
+    }
+}
