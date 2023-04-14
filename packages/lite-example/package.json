@@ -10,7 +10,13 @@
         "build": "waffle"
     },
     "devDependencies": {
+        "@ethereum-waffle/compiler": "4.0.0-alpha.21",
+        "@openzeppelin/contracts": "^4.8.3",
         "ethereum-mars": "^0.2.5",
         "ethereum-waffle": "^4.0.10"
+    },
+    "dependencies": {
+        "ts-node": "^10.9.1",
+        "typescript": "^5.0.4"
     }
 }
